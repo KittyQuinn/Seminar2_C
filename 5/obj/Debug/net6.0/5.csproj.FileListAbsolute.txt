@@ -1,0 +1,15 @@
+/Users/kataryzova/Desktop/Seminar2 C#/5/bin/Debug/net6.0/5
+/Users/kataryzova/Desktop/Seminar2 C#/5/bin/Debug/net6.0/5.deps.json
+/Users/kataryzova/Desktop/Seminar2 C#/5/bin/Debug/net6.0/5.runtimeconfig.json
+/Users/kataryzova/Desktop/Seminar2 C#/5/bin/Debug/net6.0/5.dll
+/Users/kataryzova/Desktop/Seminar2 C#/5/bin/Debug/net6.0/5.pdb
+/Users/kataryzova/Desktop/Seminar2 C#/5/obj/Debug/net6.0/5.csproj.AssemblyReference.cache
+/Users/kataryzova/Desktop/Seminar2 C#/5/obj/Debug/net6.0/5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kataryzova/Desktop/Seminar2 C#/5/obj/Debug/net6.0/5.AssemblyInfoInputs.cache
+/Users/kataryzova/Desktop/Seminar2 C#/5/obj/Debug/net6.0/5.AssemblyInfo.cs
+/Users/kataryzova/Desktop/Seminar2 C#/5/obj/Debug/net6.0/5.csproj.CoreCompileInputs.cache
+/Users/kataryzova/Desktop/Seminar2 C#/5/obj/Debug/net6.0/5.dll
+/Users/kataryzova/Desktop/Seminar2 C#/5/obj/Debug/net6.0/refint/5.dll
+/Users/kataryzova/Desktop/Seminar2 C#/5/obj/Debug/net6.0/5.pdb
+/Users/kataryzova/Desktop/Seminar2 C#/5/obj/Debug/net6.0/5.genruntimeconfig.cache
+/Users/kataryzova/Desktop/Seminar2 C#/5/obj/Debug/net6.0/ref/5.dll
